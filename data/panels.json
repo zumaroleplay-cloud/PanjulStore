@@ -1,0 +1,22 @@
+[
+  {
+    "id": "PN-DEMO-01",
+    "name": "Panel Rifqi 4GB",
+    "desc": "Panel demo bawaan untuk testing login player",
+    "username": "player1",
+    "password": "player123",
+    "ram": 4,
+    "exp": "2026-07-19",
+    "online": true
+  },
+  {
+    "id": "PN-DEMO-02",
+    "name": "Panel Andi 2GB",
+    "desc": "Panel demo RAM kecil (hanya 1 slot backup)",
+    "username": "player2",
+    "password": "player123",
+    "ram": 2,
+    "exp": "2026-08-30",
+    "online": true
+  }
+]
